@@ -5,7 +5,7 @@
   "main": "app.coffee",
   "dependencies": {
     "commander": "~2.1.0",
-    "request": "~2.30.0",
+    "request": "~2.50.0",
     "levelup": "~0.18.2",
     "leveldown": "~0.10.2",
     "moment": "~2.5.0",
